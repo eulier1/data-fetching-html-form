@@ -16,8 +16,10 @@
 
 ### [x] 7. Create the serve on the port 3000
 
-### [ ] 8. Send an HTML Document that contain is HTML FORM
+### [ ] 8. Form Creation Process - [From HTML Living Standard](https://html.spec.whatwg.org/#forms)
 
-### [ ] 9. HTML Form must send/post data to the server under /fillings route
+### [ ] 8.1 Writing the user interface
 
-### [ ] 10. Define the /fillings route to detect incomming request and logs it's content
+### [ ] 8.2 Implementing the server-side processing under /fillings route
+
+### [ ] 8.3 Configuring the user interface to communicate with the server
